@@ -16,6 +16,7 @@ EECE2140-1/
 │   │   └── Mini_Project1/
 │   └── Week5/
 ├── EECE2540/
+├── EECE2160/
 ├── .gitignore
 └── README.md
 ```
